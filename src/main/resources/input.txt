@@ -1,0 +1,7 @@
+This is an example document,
+designed to be read line by line.
+There are multiple lines.
+This text is arbitrary.
+This is line 5.
+There are 7 lines in total.
+This is the final line.
